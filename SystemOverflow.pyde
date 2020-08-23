@@ -3,9 +3,9 @@ Name: Paul Okenne
 Program:
     Thsgame entails an account platform for users to buy games and play purchased games. 
     Key features:
-        -User will be able to make unique accounts [Stored in csv file]
-    -User’s purchased games will be stored [Stored in csv file]
-    -User’s highest score in each game will be stored  [Stored in csv file]
+        -Users will be able to make unique accounts [Stored in csv file]
+    -Users’ purchased games will be stored [Stored in csv file]
+    -Users’ highest score in each game will be stored  [Stored in csv file]
     -Lists of games:   -Soccer pinball
                        -Keep the ball up
                        -Memozories [Memory game: try to recollect patterns]
