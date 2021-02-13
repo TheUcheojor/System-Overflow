@@ -1,7 +1,7 @@
 '''
 Name: Paul Okenne
 Program:
-    Thsgame entails an account platform for users to buy games and play purchased games. 
+    Ths game entails an account platform for users to buy games and play purchased games. 
     Key features:
         -Users will be able to make unique accounts [Stored in csv file]
     -Users’ purchased games will be stored [Stored in csv file]
